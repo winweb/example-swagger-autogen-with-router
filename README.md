@@ -1,5 +1,7 @@
 # example-swagger-autogen-using-router
 
+# Todo make link /download for download swagger_output.json 
+
 Install the dependencies:
 
 ```bash
